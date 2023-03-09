@@ -1,0 +1,1174 @@
+/* Background Pages */
+
+.page-Nirleka_Found_Tape {
+    background-image: linear-gradient(rgba(23,23,23,.70),rgba(23,23,23,.70)),url(https://hub.scpslgame.com/images/6/6e/079Error.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+}
+
+/* C819 Page */
+.page-Incident_C819 {
+    background-image: linear-gradient(rgba(31,68,136,.10),rgba(31,68,136,.10)),url(https://static.wikia.nocookie.net/task-force-a5/images/0/08/Site-background-dark/revision/latest?cb=20230204164424);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Vehicles Page */
+.page-Vehicles {
+    background-image: linear-gradient(rgba(31,68,136,.10),rgba(31,68,136,.10)),url(https://cdn.discordapp.com/attachments/587157742968373248/1079275375571521598/Menu.png);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Task Force 404 Page */
+.page-Task_Force_404 {
+    background-image: linear-gradient(rgba(31,68,136,.10),rgba(31,68,136,.10)),url(https://cdn.discordapp.com/attachments/1012970146274488398/1033227105607090236/unknown.png);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Factions Page */
+.page-Factions {
+    background-image: linear-gradient(rgba(31,68,136,.10),rgba(31,68,136,.10)),url(https://cdn.discordapp.com/attachments/1045550146278141983/1074124856125292696/image.png);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Locations Page */
+.page-Locations {
+    background-image: linear-gradient(rgba(31,68,136,.10),rgba(31,68,136,.10)),url(https://static.wikia.nocookie.net/task-force-a5/images/e/e8/Ronograd.png/revision/latest?cb=20230304023903);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* ATF Page */
+.page-Advanced_Task_Force, .page-ATF {
+    background-image: linear-gradient(rgba(23,23,23,.70),rgba(23,23,23,.70)),url(https://cdn.discordapp.com/attachments/1045550146278141983/1074135832757289031/image.png);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* SERPENTINE Page */
+.page-SERPENTINE, .page-Serpentine {
+    background-image: linear-gradient(rgba(23,23,23,.70),rgba(23,23,23,.70)),url(https://static.wikia.nocookie.net/task-force-a5/images/b/b8/TeaserSerpentine.png/revision/latest?cb=20230304021927);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Main Page */
+.page-Task_Force_A5_Wiki, .page-Strona_główna {
+    background-image: linear-gradient(rgba(11,38,106,.10), rgba(11,38,106,.10)), url("https://static.wikia.nocookie.net/task-force-a5/images/7/7a/LabPic.png/revision/latest?cb=20230124031930");
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Lore Page */
+.page-Lore_Disambiguation {
+    background-image: linear-gradient(rgba(10,10,10,.70),rgba(10,10,10,.70)),url(https://static.wikia.nocookie.net/task-force-a5/images/9/9b/Teaser.png/revision/latest?cb=20230303132646);
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* The following data is taken via a developer tool, taken from SCP:SL WIki (Beta); */
+/* .page */
+a.nick_global-sysop,a.nick_global-sysop:visited {
+    font-weight: bold;
+    color: #008080 !important
+}
+
+a.nick_wiki-coordinator,a.nick_wiki-coordinator:visited {
+    font-weight: bold;
+    color: #43C6DB !important
+}
+
+a.nick_admin,a.nick_admin:visited {
+    font-weight: bold;
+    color: darkgreen !important
+}
+
+a.nick_steward,a.nick_steward:visited {
+    font-weight: bold;
+    color: darkorange !important
+}
+
+a.nick_friend,a.nick_friend:visited {
+    color: green !important
+}
+
+a.nick_ip,a.nick_ip:visited {
+    color: darkred
+}
+
+a.nick_dynamic_ip,a.nick_dynamic_ip:visited {
+    color: #660066
+}
+
+a[href$="/index.php?title=User:C.A.S.S.I.E."] {
+    color: royalblue ;
+    font-weight: bold
+}
+
+a.sidebar-link {
+    color: #f2d7c1 !important;
+    font-weight: normal !important
+}
+
+body {
+    text-align: left !important
+}
+
+.div.tright {
+    margin: 0.5em 0 0.5em 0.5em
+}
+
+.smw-indicator-vertical-bar-loader {
+    position: absolute;
+    visibility: hidden
+}
+
+.blackout {
+    position: relative;
+    display: inline-block;
+    height: 35px
+}
+
+.blackout img {
+    filter: brightness(10%);
+    max-width: 100%;
+    width: auto
+}
+
+.blackoutcancel {
+    position: relative;
+    display: inline-block;
+    height: 35px
+}
+
+.blackoutcancel img {
+    filter: brightness(100%);
+    max-width: 100%;
+    width: auto
+}
+
+.invertImage img {
+    filter: invert(1);
+    max-width: 100%;
+    width: auto
+}
+
+p {
+    margin: 0.5em 0 0.5em 0;
+    line-height: 1.4
+}
+
+.mp-section {
+    background: rgba(0,0,0,0.5);
+    border: 0 solid white;
+    border-radius: 5px;
+    color: white;
+    margin: 10px 0 0 0
+}
+
+.mp-section2 {
+    background: rgba(0,0,0,0);
+    border: 0 solid white;
+    border-radius: 5px;
+    color: white;
+    margin: 10px 0 0 0
+}
+
+.mp-header {
+    border-bottom: 1px solid white;
+    color: white;
+    font-size: 140%;
+    text-align: center;
+    margin: 0 8px 10px 8px;
+    padding: 5px 0 5px 0
+}
+
+.mp-content {
+    border-bottom: 1px solid white;
+    color: white;
+    padding: 0 8px 8px 8px;
+    border-bottom: none;
+    overflow-wrap: break-word
+}
+
+.mp-content2 {
+    border-right: 1px solid white;
+    color: white;
+    padding: 0 0 0 0;
+    border-bottom: none;
+    overflow-wrap: break-word
+}
+
+.mp-content3 {
+    border-bottom: 1px solid white;
+    color: white;
+    padding: 0 8px 0 8px;
+    border-bottom: none;
+    overflow: auto
+}
+
+.mp-left {
+    float: left;
+    width: 25%
+}
+
+.mp-left2 {
+    float: left;
+    width: 50%
+}
+
+.mp-center2 {
+    width: 75%
+}
+
+.mp-center3 {
+    width: 55%
+}
+
+.mp-right {
+    float: right;
+    width: 25%
+}
+
+.mp-right2 {
+    float: right;
+    width: 45%
+}
+
+.mp-center {
+    margin: auto;
+    width: 48%
+}
+
+.mp-section hr {
+    margin: 10px 0 10px 0;
+    background: white
+}
+
+.mp-wide ul {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    margin: -2px 15px 8px 15px;
+    padding: 0
+}
+
+.mp-wide ul li {
+    display: flex;
+    list-style: none;
+    flex-flow: column wrap;
+    flex: 1 0 10em;
+    margin: 0;
+    padding: 2px 10px;
+    font-size: 120%
+}
+
+.infobox {
+    width: 256px;
+    background-color: #222;
+    font-size: 85%;
+    border-radius: 7px;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    padding: 0 ;
+    float: right;
+    clear: right;
+    border-bottom: none
+}
+
+.infobox2 {
+    text-align: center;
+    background-color: #070707;
+    margin: 0;
+    font-size: 120%;
+    padding: 0.25em;
+    border-radius: 4px
+}
+
+.infobox3 {
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Courier New';
+    background-color: #070707;
+    margin: 0;
+    padding: 0;
+    border-radius: 4px
+}
+
+.infobox td,.infobox th {
+    vertical-align: top;
+    font-size: 85%
+}
+
+.infobox caption {
+    font-size: larger;
+    margin-left: inherit
+}
+
+.infobox.bordered {
+    border-collapse: collapse
+}
+
+.infobox.bordered td,.infobox.bordered th {
+    border: 1px solid #aaaaaa
+}
+
+.infobox.bordered .borderless td,.infobox.bordered .borderless th {
+    border: 0
+}
+
+h1,h2 {
+    border-bottom: 1px solid white;
+    padding-top: 5px
+}
+
+h3,h4,h5,h6 {
+    padding-top: 5px
+}
+
+.banner h1 {
+    border-bottom: none;
+    padding-top: 0px
+}
+
+div.flaggedrevs_short_details {
+    border: 1px solid white;
+    background-color: #111;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    right: -2px;
+    width: 25em
+}
+
+.mw_metadata th {
+    background-color: #111;
+    font-weight: normal;
+    text-align: center
+}
+
+.mw-mmv-above-fold,.mw-mmv-dialog,.mw-mmv-image-links li,.mw-mmv-options-cancel-button.mw-ui-button.mw-ui-quiet,.mw-mmv-options-dialog-header,.mw-mmv-options-text-header {
+    color: #e0e0e0
+}
+
+.mw-mmv-above-fold {
+    background: #222;
+    border-top: 1px solid #333
+}
+
+.mw-mmv-image-metadata {
+    background-color: #111;
+    border-color: #333
+}
+
+.mw-mmv-dialog {
+    border: 1px solid #333;
+    background: #222;
+    box-shadow: none
+}
+
+.mw-mmv-dialog .mw-mmv-dialog-down-arrow {
+    background: #222;
+    border-bottom: 1px solid #333;
+    border-right: 1px solid #333
+}
+
+.mw-mmv-options-enable-alert {
+    background: #333;
+    color: #e0e0e0
+}
+
+.mw-mmv-filepage-buttons .mw-ui-button {
+    background: #36c;
+    color: #e0e0e0;
+    border-color: #1d4699
+}
+
+a.mw-ui-button {
+    text-decoration: none;
+    background: #111;
+    border: 1px solid white
+}
+
+a.mw-ui-button {
+    text-decoration: none;
+    color: white
+}
+
+a.mw-ui-button:hover,a.mw-ui-button:focus {
+    text-decoration: none;
+    background: #111;
+    border: 1px solid white
+}
+
+a.mw-ui-button:hover,a.mw-ui-button:focus {
+    text-decoration: none;
+    color: white
+}
+
+.mw-notification {
+    padding: 0.75em 1.5em;
+    margin-bottom: 0.5em;
+    border: solid 1px #ddd;
+    background-color: #111;
+    cursor: pointer;
+    opacity: 0;
+    -webkit-transform: translateX(35px);
+    transform: translateX(35px);
+    -webkit-transition: opacity 0.35s ease-in-out,-webkit-transform 0.35s ease-in-out;
+    transition: opacity 0.35s ease-in-out,transform 0.35s ease-in-out
+}
+
+.globalprefs-hover {
+    background-color: #222
+}
+
+.oo-ui-window-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #111
+}
+
+.mw-echo-ui-notificationsInboxWidget-toolbarWrapper {
+    height: 3.5em;
+    position: sticky;
+    padding-top: 0.5em;
+    margin-top: -0.5em;
+    top: 0;
+    z-index: 2;
+    background: none;
+    box-shadow: 0 2px 0 0 rgba(0,0,0,0.1)
+}
+
+.mw-echo-ui-crossWikiUnreadFilterWidget {
+    border: 1px solid #c8ccd1;
+    padding: 0.7em;
+    width: 20em;
+    background: #111
+}
+
+.mw-echo-ui-pageNotificationsOptionWidget.oo-ui-optionWidget-selected {
+    background-color: #222;
+    color: #3366cc;
+    border-radius: 4px
+}
+
+.mw-echo-ui-specialHelpMenuWidget-menu .oo-ui-buttonWidget:hover {
+    background-color: #111
+}
+
+.mw-rcfilters-ui-changesListWrapperWidget .mw-changeslist-legend {
+    background-color: rgba(0,0,0,0.5);
+    position: relative;
+    border: 1px solid white
+}
+
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined .oo-ui-tagMultiselectWidget-handle {
+    background-color: rgba(0,0,0,0.5);
+    border-bottom: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-right: 1px solid white
+}
+
+.oo-ui-textInputWidget input,.oo-ui-textInputWidget textarea {
+    -webkit-appearance: none;
+    margin: 0;
+    font-size: inherit;
+    font-family: inherit;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    border: 1px solid white;
+    border-top-color: white;
+    border-right-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding: 0.57142857em 0.57142857em 0.5em;
+    padding-left: 0.571429em
+}
+
+.mw-rcfilters-ui-filterTagMultiselectWidget-views-select-widget.oo-ui-widget {
+    border: 1px solid white;
+    border-left-width: 1px;
+    border-left-width: 0;
+    border-radius: 0 0 2px 0;
+    padding-right: 0.35714286em;
+    display: block;
+    text-align: right;
+    height: 2.5em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.5)
+}
+
+.oo-ui-buttonSelectWidget .oo-ui-buttonOptionWidget:first-child .oo-ui-buttonElement-button {
+    margin-left: 0;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    color: white;
+    background: none
+}
+
+.oo-ui-buttonSelectWidget .oo-ui-buttonOptionWidget:last-child .oo-ui-buttonElement-button {
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    color: white;
+    background: none
+}
+
+.oo-ui-buttonSelectWidget.oo-ui-widget-enabled .oo-ui-buttonElement.oo-ui-widget-enabled > .oo-ui-buttonElement-button:hover,.oo-ui-buttonSelectWidget.oo-ui-widget-enabled .oo-ui-buttonElement.oo-ui-widget-enabled > .oo-ui-buttonElement-button:active {
+    z-index: 1;
+    color: #aaa
+}
+
+.mw-rcfilters-ui-filterTagMultiselectWidget-wrapper-content-title {
+    font-weight: bold;
+    color: white;
+    white-space: nowrap
+}
+
+.oo-ui-textInputWidget.oo-ui-widget-enabled:hover input,.oo-ui-textInputWidget.oo-ui-widget-enabled:hover textarea {
+    border-color: #aaa;
+    color: #aaa
+}
+
+.oo-ui-inputWidget-input {
+    color: white
+}
+
+.oo-ui-buttonElement-frameless.oo-ui-labelElement.oo-ui-iconElement > .oo-ui-buttonElement-button {
+    padding-left: 2.14285714em;
+    color: white;
+    background: none
+}
+
+.oo-ui-buttonElement-frameless.oo-ui-widget-enabled > .oo-ui-buttonElement-button:hover {
+    color: #aaa;
+    background: none
+}
+
+.oo-ui-buttonElement-framed.oo-ui-indicatorElement.oo-ui-labelElement > .oo-ui-buttonElement-button {
+    padding-right: 2.28571429em;
+    background: rgba(0,0,0,0.5);
+    border-color: white;
+    color: white
+}
+
+.oo-ui-buttonElement-framed.oo-ui-widget-enabled > .oo-ui-buttonElement-button:hover {
+    background-color: rgba(0,0,0,0.5);
+    color: #aaa;
+    border-color: #aaa
+}
+
+.oo-ui-popupWidget-popup {
+    background-color: rgba(0,0,0,0.5);
+    border: 1px solid white;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.25);
+    color: white
+}
+
+.mw-rcfilters-ui-savedLinksListWidget-placeholder.oo-ui-optionWidget .oo-ui-labelElement-label {
+    color: white;
+    white-space: normal
+}
+
+.oo-ui-buttonElement-framed.oo-ui-widget-enabled > .oo-ui-buttonElement-button {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    border-color: white
+}
+
+audio {
+    filter: invert(100%)
+}
+
+audio::-webkit-media-controls-enclosure {
+    transform: scale(1.1)
+}
+
+.tabbernav {
+    overflow: hidden !important;
+    padding: 0.3em 0 !important
+}
+
+.tabbernav a {
+    padding: 0.3em 0.5em !important;
+    margin: 0 !important;
+    color: none !important;
+    border: none !important;
+    background: #282829 !important;
+    border-bottom: none;
+    transition: color 0.5s
+}
+
+.tabbernav a[title~="Ability"],.tabbernav li.tabberactive a[title~="Ability"],.tabbernav li a:hover[title~="Ability"] {
+    width: 75px;
+    height: 75px;
+    background-size: contain !important;
+    background-color: rgba(34,34,34,0) !important;
+    opacity: .5;
+    text-indent: 110%;
+    white-space: nowrap;
+    overflow: hidden
+}
+
+.tabbernav li.tabberactive a[title~="Ability"],.tabbernav li a:hover[title~="Ability"] {
+    background-color: rgba(201,76,76,0) !important
+}
+
+.tabbernav li.tabberactive a[title~="Ability"] {
+    opacity: 1 !important;
+    transition: opacity 0.3s
+}
+
+.tabbernav li a:hover[title~="Ability"] {
+    opacity: .7;
+    transition: opacity 0.5s
+}
+
+.tabbernav a[title="Ability 049Touch"],.tabbernav li.tabberactive a[title="Ability 049Touch"],.tabbernav a:hover[title="Ability 049Touch"] {
+    background-image: url(https://hub.scpslgame.com/images/b/ba/049Attack.png) !important
+}
+
+.tabbernav a[title="Ability 049Sense"],.tabbernav li.tabberactive a[title="Ability 049Sense"],.tabbernav a:hover[title="Ability 049Sense"] {
+    background-image: url(https://hub.scpslgame.com/images/f/fb/049Sense.png) !important
+}
+
+.tabbernav a[title="Ability 049Waste"],.tabbernav li.tabberactive a[title="Ability 049Waste"],.tabbernav a:hover[title="Ability 049Waste"] {
+    background-image: url(https://hub.scpslgame.com/images/d/d6/049Waste.png) !important
+}
+
+.tabbernav a[title="Ability 049Call"],.tabbernav li.tabberactive a[title="Ability 049Call"],.tabbernav a:hover[title="Ability 049Call"] {
+    background-image: url(https://hub.scpslgame.com/images/c/c8/049Call.png) !important
+}
+
+.tabbernav a[title="Ability 079Door"],.tabbernav li.tabberactive a[title="Ability 079Door"],.tabbernav a:hover[title="Ability 079Door"] {
+    background-image: url(https://hub.scpslgame.com/images/c/ca/097doorinteract2.png) !important
+}
+
+.tabbernav a[title="Ability 079Lock"],.tabbernav li.tabberactive a[title="Ability 079Lock"],.tabbernav a:hover[title="Ability 079Lock"] {
+    background-image: url(https://hub.scpslgame.com/images/a/ac/079lockdoor2.png) !important
+}
+
+.tabbernav a[title="Ability 079Telsa"],.tabbernav li.tabberactive a[title="Ability 079Telsa"],.tabbernav a:hover[title="Ability 079Telsa"] {
+    background-image: url(https://hub.scpslgame.com/images/e/e4/079tesla2.png) !important
+}
+
+.tabbernav a[title="Ability 079Gen"],.tabbernav li.tabberactive a[title="Ability 079Gen"],.tabbernav a:hover[title="Ability 079Gen"] {
+    background-image: url(https://hub.scpslgame.com/images/0/0a/CATDECONTAM2.png) !important
+}
+
+.tabbernav a[title="Ability 096Melee"],.tabbernav li.tabberactive a[title="Ability 096Melee"],.tabbernav a:hover[title="Ability 096Melee"] {
+    background-image: url(https://hub.scpslgame.com/images/9/99/096MeleeSprite.png) !important
+}
+
+.tabbernav a[title="Ability 096Shield"],.tabbernav li.tabberactive a[title="Ability 096Shield"],.tabbernav a:hover[title="Ability 096Shield"] {
+    background-image: url(https://hub.scpslgame.com/images/c/c1/096ShieldSprite.png) !important
+}
+
+.tabbernav a[title="Ability 096Cry"],.tabbernav li.tabberactive a[title="Ability 096Cry"],.tabbernav a:hover[title="Ability 096Cry"] {
+    background-image: url(https://hub.scpslgame.com/images/f/f8/096TryNotToCrySprite.png) !important
+}
+
+.tabbernav a[title="Ability 096Charged"],.tabbernav li.tabberactive a[title="Ability 096Charged"],.tabbernav a:hover[title="Ability 096Charged"] {
+    background-image: url(https://hub.scpslgame.com/images/b/b0/096ChargeSprite.png) !important
+}
+
+.tabbernav a[title="Ability 173Armor"],.tabbernav li.tabberactive a[title="Ability 173Armor"],.tabbernav a:hover[title="Ability 173Armor"] {
+    background-image: url(https://hub.scpslgame.com/images/6/67/173Shield.png) !important
+}
+
+.tabbernav a[title="Ability 173Tantrum"],.tabbernav li.tabberactive a[title="Ability 173Tantrum"],.tabbernav a:hover[title="Ability 173Tantrum"] {
+    background-image: url(https://hub.scpslgame.com/images/5/53/173Shit.png) !important
+}
+
+.tabbernav a[title="Ability 173Blink"],.tabbernav li.tabberactive a[title="Ability 173Blink"],.tabbernav a:hover[title="Ability 173Blink"] {
+    background-image: url(https://hub.scpslgame.com/images/6/6d/173Blink.png) !important
+}
+
+.tabbernav a[title="Ability 173Breakneck"],.tabbernav li.tabberactive a[title="Ability 173Breakneck"],.tabbernav a:hover[title="Ability 173Breakneck"] {
+    background-image: url(https://hub.scpslgame.com/images/8/85/173Breakneck.png) !important
+}
+
+.tabbernav a[title="Ability 939Melee"],.tabbernav li.tabberactive a[title="Ability 939Melee"],.tabbernav a:hover[title="Ability 939Melee"] {
+    background-image: url(https://hub.scpslgame.com/images/3/3e/939ClawIcon.png) !important
+}
+
+.tabbernav a[title="Ability 939Ultrasense"],.tabbernav li.tabberactive a[title="Ability 939Ultrasense"],.tabbernav a:hover[title="Ability 939Ultrasense"] {
+    background-image: url(https://hub.scpslgame.com/images/d/d3/939UltrasenseIcon.png) !important
+}
+
+.tabbernav a[title="Ability 939Focus"],.tabbernav li.tabberactive a[title="Ability 939Focus"],.tabbernav a:hover[title="Ability 939Focus"] {
+    background-image: url(https://hub.scpslgame.com/images/3/32/939FocusIcon.png) !important
+}
+
+.tabbernav a[title="Ability 939Amnestic"],.tabbernav li.tabberactive a[title="Ability 939Amnestic"],.tabbernav a:hover[title="Ability 939Amnestic"] {
+    background-image: url(https://hub.scpslgame.com/images/a/a4/939AmnesticIcon.png) !important
+}
+
+.tabbernav a[title="Ability 939Mimicry"],.tabbernav li.tabberactive a[title="Ability 939Mimicry"],.tabbernav a:hover[title="Ability 939Mimicry"] {
+    background-image: url(https://hub.scpslgame.com/images/7/77/939MimicryIcon.png) !important
+}
+
+.infobox-tabber-abilities .tabbertab {
+    animation: fadeEffect 1s
+}
+
+.infobox-tabber-abilities .tabbernav {
+    border-bottom: none;
+    display: grid !important;
+    padding-bottom: 10px !important;
+    row-gap: .5em;
+    column-gap: .5em;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-evenly
+}
+
+.infobox-tabber-abilities .tabbernav a {
+    padding: 0.5em 0.3em !important;
+    display: grid
+}
+
+@keyframes fadeEffect {
+    from {
+        opacity: .5
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fadeEffectMain {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+.tabbernav li {
+    display: inline-block !important;
+    margin-top: 0 !important;
+    border-bottom: none
+}
+
+.tabbertab {
+    border: none !important;
+    padding: 0 !important
+}
+
+.tabbernav {
+    text-align: center;
+    border-bottom: none
+}
+
+ul.tabbernav {
+    border-bottom: none;
+    padding-bottom: 0px !important
+}
+
+ul.tabbernav li a:hover {
+    background: #39393b !important;
+    border: 1px solid #39393b;
+    color: black !important;
+    font-weight: bold !important;
+    transition: background 0.5s;
+    transition: color 0.5s
+}
+
+ul.tabbernav li a {
+    background: #1c1c1c !important;
+    border: 1px solid #1c1c1c;
+    -o-border-radius: 5px 5px 0 0;
+    transition: background 0.5s
+}
+
+ul.tabbernav li.tabberactive a {
+    background: #59595c !important;
+    border: 1px solid #59595c;
+    color: black !important;
+    font-weight: bold !important;
+    transition: color 0 !important
+}
+
+.weaponchart-tabber .tabbernav {
+    border-bottom: none;
+    display: grid !important;
+    padding-bottom: 10px !important;
+    row-gap: 1em;
+    column-gap: .5em;
+    grid-template-columns: repeat(auto-fit,minmax(max-content,250px));
+    justify-content: center
+}
+
+.weaponchart-tabber .tabbernav a {
+    padding: 0.5em 0.3em !important;
+    display: grid
+}
+
+.infobox-tabber .tabbernav,.infobox-tabber-three .tabbernav {
+    border-bottom: none;
+    display: grid !important;
+    padding-bottom: 10px !important;
+    row-gap: .5em;
+    column-gap: .5em;
+    grid-template-columns: auto auto;
+    background-color: rgba(201,76,76,0) !important
+}
+
+.infobox-tabber-three .tabbernav {
+    grid-template-columns: auto auto auto
+}
+
+.infobox-tabber .tabbertab,.infobox-tabber-three .tabbernav {
+    animation: fadeEffectMain 1s
+}
+
+.infobox-tabber .tabbernav a,.infobox-tabber-three .tabbernav a {
+    padding: 0.5em 0.3em !important;
+    display: grid
+}
+
+.infobox-tabber ul.tabbernav li a:hover,.infobox-tabber-three ul.tabbernav li a:hover {
+    background-color: rgba(201,76,76,0) !important;
+    border: 1px solid #39393b;
+    color: grey !important;
+    font-weight: bold !important;
+    transition: background 0.5s;
+    transition: color 0.5s
+}
+
+.infobox-tabber ul.tabbernav li a,.infobox-tabber-three ul.tabbernav li a {
+    background-color: rgba(201,76,76,0) !important;
+    border: 1px solid #1c1c1c;
+    -o-border-radius: 5px 5px 0 0;
+    transition: background 0.5s
+}
+
+.infobox-tabber ul.tabbernav li.tabberactive a,.infobox-tabber-three ul.tabbernav li.tabberactive a {
+    background-color: rgba(89,89,92,.5) !important;
+    border: 1px solid #59595c;
+    color: black !important;
+    font-weight: bold !important;
+    transition: color 0 !important
+}
+
+.infobox-tabber-human .tabbernav {
+    border-bottom: none;
+    display: grid !important;
+    padding-bottom: 10px !important;
+    row-gap: .5em;
+    column-gap: .5em;
+    grid-template-columns: auto auto auto
+}
+
+.infobox-tabber-human .tabbernav a {
+    padding: 0.5em 0.3em !important;
+    display: grid
+}
+
+.infobox-tabber-human-items .tabbernav {
+    border-bottom: none;
+    display: grid !important;
+    padding-bottom: 10px !important;
+    row-gap: .5em;
+    column-gap: .5em;
+    grid-template-columns: auto auto auto auto
+}
+
+.infobox-tabber-human-items .tabbernav a {
+    padding: 0.5em 0.3em !important;
+    display: grid
+}
+
+.round-tabber .tabberlive .tabbertab,.round-tabber .tabber .tabbertab {
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: #59595c;
+    border-image: none;
+    border-style: solid none none;
+    border-width: 1px medium medium
+}
+
+.round-tabber .tabber .tabbertab {
+    animation: fadeEffectMain 1s
+}
+
+.round-tabber ul.tabbernav {
+    border-bottom: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
+    column-gap: 1em
+}
+
+.round-tabber ul.tabbernav li a {
+    background: none repeat scroll 0 0 #59595c;
+    border: 1px solid #59595c;
+    border-image: none;
+    margin-left: 3px;
+    padding: 0.5em 0.3em !important;
+    text-decoration: none;
+    display: grid
+}
+
+.round-tabber ul.tabbernav li {
+    display: inline;
+    list-style: none outside none;
+    margin: 0 0 0 px
+}
+
+.round-tabber ul.tabbernav li a:link {
+    color: #7AB1CC
+}
+
+.round-tabber ul.tabbernav li a:hover {
+    background: none repeat scroll 0 0 #000000;
+    border-color: #505050;
+    color: #FFFFFF
+}
+
+.round-tabber ul.tabbernav li.tabberactive a {
+    background-color: #000000;
+    color: #FFFFFF
+}
+
+.round-tabber ul.tabbernav li.tabberactive a,.round-tabber ul.tabbernav li.tabberactive a:hover,.round-tabber ul.tabbernav li.tabberactive a:link {
+    background-color: #000000;
+    border-bottom: 1px none;
+    padding: 2px 0.5em 4px
+}
+
+.round-tabber ul.tabbernav {
+    text-align: center
+}
+
+.hoverbox {
+    display: inline-block;
+    padding: 0em
+}
+
+.hoverbox .hoveritem {
+    display: inline-block;
+    margin: 0em;
+    padding: 0em;
+    opacity: 0;
+    z-index: -1!important;
+    transition: opacity .5s,z-index .6s
+}
+
+.hoverbox .hoveritem.selected {
+    display: inline-block
+}
+
+.hoverbox:hover .hoveritem {
+    display: inline-block;
+    height: auto;
+    opacity: 100;
+    transition: opacity .5s;
+    width: max-content;
+    height: auto;
+    z-index: 4 !important
+}
+
+.hoverbox:hover .hoveritem.selected {
+    display: none
+}
+
+.hoverbox {
+    cursor: pointer
+}
+
+.hidden .hoverbox {
+    display: inline-block;
+    padding: 0em
+}
+
+.hidden .hoverbox .hoveritem {
+    display: none;
+    margin: 0em;
+    padding: 0em
+}
+
+.hidden .hoverbox .hoveritem.selected {
+    display: inline-block
+}
+
+.hidden .hoverbox:hover .hoveritem {
+    display: inline-block;
+    height: auto;
+    width: max-content;
+    height: auto
+}
+
+.hidden .hoverbox:hover .hoveritem.selected {
+    display: none
+}
+
+.hidden .hoverbox {
+    cursor: pointer
+}
+
+.typing {
+    margin: 10px 0 0 10px;
+    width: 1000px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: type 4s steps(150,end);
+    -webkit-animation: type 4s steps(150,end);
+    -moz-animation: type 4s steps(150,end);
+    -o-animation: type 4s steps(150,end)
+}
+
+@keyframes type {
+    from {
+        width: 0
+    }
+}
+
+@-webkit-keyframes type {
+    from {
+        width: 0
+    }
+}
+
+@-moz-keyframes type {
+    from {
+        width: 0
+    }
+}
+
+@-o-keyframes type {
+    from {
+        width: 0
+    }
+}
+
+.typingslow {
+    margin: 10px 0 0 10px;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    animation: typeslow 1s steps(150,end) !important;
+    -webkit-animation: typeslow 1s steps(150,end) !important;
+    -moz-animation: typeslow 1s steps(150,end) !important;
+    -o-animation: typeslow 1s steps(150,end) !important;
+    animation-delay: 1s !important;
+    -webkit-animation-delay: 1s !important;
+    -moz-animation-delay: 1s !important;
+    -o-animation-delay: 1s !important;
+    animation-fill-mode: backwards !important;
+    -webkit-animation-fill-mode: backwards !important;
+    -moz-animation-fill-mode: backwards !important;
+    -o-animation-fill-mode: backwards !important
+}
+
+@keyframes typeslow {
+    from {
+        width: 0;
+        color: rgb(4,4,5);
+        opacity: 0;
+        height: 0
+    }
+}
+
+@-webkit-keyframes typeslow {
+    from {
+        width: 0;
+        color: rgb(4,4,5);
+        opacity: 0;
+        height: 0
+    }
+}
+
+@-moz-keyframes typeslow {
+    from {
+        width: 0;
+        color: rgb(4,4,5);
+        opacity: 0;
+        height: 0
+    }
+}
+
+@-o-keyframes typeslow {
+    from {
+        width: 0;
+        color: rgb(4,4,5);
+        opacity: 0;
+        height: 0
+    }
+}
